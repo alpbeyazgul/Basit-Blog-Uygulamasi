@@ -1,0 +1,46 @@
+/* Genel stiller */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+header {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+main {
+    padding: 20px;
+}
+
+/* Ana sayfa stilleri */
+#blog-posts {
+    margin-top: 20px;
+}
+
+/* Yeni gönderi oluşturma stilleri */
+#create-post {
+    margin-top: 20px;
+}
+
+/* Diğer stillendirmeler buraya eklenebilir */
